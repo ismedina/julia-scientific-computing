@@ -8,7 +8,7 @@ A quick introduction to Julia essentials by programming the gradient descent alg
 
 ## Installation
 
-The introduction is given in the form of Jupyter Notebooks. To set up Julia and/or Jupyter, visit https://datatofish.com/add-julia-to-jupyter/.
+This introduction is given in the form of Jupyter Notebooks. The easiest way to follow the course is by visiting [the Binder build of the Notebooks](https://mybinder.org/v2/gh/ismedina/julia-scientific-computing/master); that way you don't have to install anything. However, if you want to install Julia in your computer and run the course locally you can take a look at the following guide: https://datatofish.com/add-julia-to-jupyter/, and then clone the repo.
 
-I will provide a link to a cloud-based version of the tutorial as soon as there is someone that supports Julia. 
+
 
