@@ -1,5 +1,7 @@
 # Julia for scientific computing
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismedina/julia-scientific-computing/master)
+
 A quick introduction to Julia essentials by programming the gradient descent algorithm. Designed specially for those using Python/Matlab for scientific computing that want to learn the basics of Julia to start coding in this language as soon as possible, without having to go through a thorough course. 
 
 ![gradient descent gif](gradient_descent.gif)
