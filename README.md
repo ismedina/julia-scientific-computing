@@ -4,7 +4,7 @@
 
 A quick introduction to Julia essentials by programming the gradient descent algorithm and other cool examples. Designed specifically for those using Python/Matlab for scientific computing that want to learn the basics of Julia to start coding in this language as soon as possible, without having to go through all the details at first. 
 
-![gradient descent gif](gradient_descent.gif)
+![gradient descent gif](figures/gradient_descent.gif)
 
 ## Installation
 
